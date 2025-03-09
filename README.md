@@ -1,17 +1,36 @@
 1 Задание
 
-![01](https://github.com/user-attachments/assets/5f775774-a346-4345-8f59-eb94e9826cb9)
+В Postman вбиваем в GET https://jsonplaceholder.typicode.com/comments/356
 
-![02](https://github.com/user-attachments/assets/23cc472c-a5d0-425e-9bc2-adad5c958b0a)
+![super_01](https://github.com/user-attachments/assets/4e07c775-6e55-4131-9bb6-4b650fa9d049)
 
-![03](https://github.com/user-attachments/assets/b6c15117-b186-44bb-b894-d4f4e152bbe2)
+Далее делаем запрос GET https://jsonplaceholder.typicode.com/posts/72
+
+![super_02](https://github.com/user-attachments/assets/ab315e96-2f16-46d9-93cc-cae538f92eaa)
+
+Далее делаем запрос GET https://jsonplaceholder.typicode.com/users.8
+
+![super_03](https://github.com/user-attachments/assets/454000b4-f8c6-4a82-a588-dd581e0d0620)
+
+И получаем информацию о 
+
 
 
 2 Задание
 
-![Screenshot_15](https://github.com/user-attachments/assets/2377d1db-1810-43a0-8b0d-0984a8b58f7e)
+Пишем команду:
 
 curl -X POST -H "Content-Type: application/json" -d '{ "userId": 666, "id": 813, "title": "Новая заметка", "body": "Привет от 2025.03.08" }' https://jsonplaceholder.typicode.com/posts
+
+где :
+
+-X POST: Указывает тип запроса(без -X по умолчанию будет GET запрос)
+
+-H "Content-Type: application/json": Устанавливает заголовок для JSON-данных.
+
+-d Передаёт данные в теле запроса.
+
+![Screenshot_15](https://github.com/user-attachments/assets/2377d1db-1810-43a0-8b0d-0984a8b58f7e)
 
 3 Задание
 

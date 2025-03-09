@@ -34,6 +34,8 @@ curl -X POST -H "Content-Type: application/json" -d '{ "userId": 666, "id": 813,
 
 3 Задание
 
+В Postman далаем запрос GET https://dog.ceo/api/breeds/image/random пока не выпадет собака 
+
 ![Screenshot_2](https://github.com/user-attachments/assets/45a3d7b0-0b47-447c-8d5b-43abaaebfefc)
 
 ![Screenshot_1](https://github.com/user-attachments/assets/e54e8ac4-9f0c-4c0d-85c7-e5fd911d01d4)

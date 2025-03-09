@@ -42,10 +42,6 @@ curl -X POST -H "Content-Type: application/json" -d '{ "userId": 666, "id": 813,
 
 ![20181023_072736](https://github.com/user-attachments/assets/8985a492-e0c8-4592-8559-ce860579d25b)
 
-![Screenshot_1](https://github.com/user-attachments/assets/cc5b7f7a-5efe-488f-9591-d705bca3a96f)
-
-![Screenshot_2](https://github.com/user-attachments/assets/6dbdc48e-df4f-469c-928d-c88e7557d356)
-
 Задание 4
 
 ![Screenshot_1](https://github.com/user-attachments/assets/53196ca2-b57c-4758-81a4-ad385d1368fd)

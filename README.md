@@ -44,6 +44,12 @@ curl -X POST -H "Content-Type: application/json" -d '{ "userId": 666, "id": 813,
 
 Задание 4
 
+Заходим по ссылке https://openweathermap.org/api и регистрируемся.
+
+В личном кабинете выбираем My API Keys
+
+Далее делаем GET запрос и получаем ответ
+
 ![Screenshot_1](https://github.com/user-attachments/assets/53196ca2-b57c-4758-81a4-ad385d1368fd)
 
 Задание 5

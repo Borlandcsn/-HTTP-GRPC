@@ -31,3 +31,13 @@ curl -X POST -H "Content-Type: application/json" -d '{ "userId": 666, "id": 813,
 
 Задание 5
 
+![Screenshot_1](https://github.com/user-attachments/assets/52ae9f87-9ada-479e-963a-a1d454523a7c)
+
+![Screenshot_2](https://github.com/user-attachments/assets/950b0a7c-415a-4d7f-ba35-22ee1cc0526b)
+
+![Screenshot_3](https://github.com/user-attachments/assets/9256d1f8-7db2-4378-a3c3-5e1213b8a09e)
+
+![Screenshot_4](https://github.com/user-attachments/assets/bfcede08-840b-48c6-9cb6-a56ca090c01f)
+
+
+
